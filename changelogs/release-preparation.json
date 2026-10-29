@@ -1,0 +1,12 @@
+{
+  "base_sha": "9da958c07c69c170d7066a8df7ff30a1c35bbad8",
+  "next_version": "1.10.0",
+  "preparer": {
+    "login": "lightning-it-release-automation[bot]"
+  },
+  "repository": "ltn-it/ansible-collection-ocp",
+  "schema_version": 1,
+  "workflow": {
+    "source_sha": "9da958c07c69c170d7066a8df7ff30a1c35bbad8"
+  }
+}
